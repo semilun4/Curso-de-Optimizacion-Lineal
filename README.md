@@ -1,2 +1,4 @@
-# Curvas de Nivel
-Graficador de Curvas de Nivel en Python
+# Graficador de curvas de nivel
+- Materia: Optimización no lineal
+- Autora: Semiramis G. de la Cruz
+
