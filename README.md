@@ -1,7 +1,6 @@
-# Tareas de Optimización Lineal
+# Curso de Optimización Lineal
 - Escuela: ESFM IPN
 - Materia: Optimización lineal
-- Autora: Semiramis G. de la Cruz
 - Fecha: Febrero - Junio 2021
 
 Tabla de contenidos
